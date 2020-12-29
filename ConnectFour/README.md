@@ -1,2 +1,2 @@
-# Java
-This repository contains Java projects that I have been involved in creating
+# ConnectFour
+This contains information for the project where I created a simple Connect Four Game
