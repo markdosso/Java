@@ -1,3 +1,8 @@
+/*
+ *  Author: Mark Dosso
+ *  Date: Sept 2017
+ */
+
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
